@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<Button
+
+    android:id="@+id/btn_view_1"
+    android:text="캐릭터"
+    android:textSize="30dp"
+    android:layout_weight="1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:id="@+id/btn_view_2"
+        android:text="적 캐릭터"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:text="가마토토 탐험대"
+        android:id="@+id/btn_view_3"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:text="메인 스테이지"
+        android:id="@+id/btn_view_4"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:text="레전드 스테이지"
+        android:id="@+id/btn_view_5"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:text="냥코 대전쟁 POP"
+        android:id="@+id/btn_view_6"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:id="@+id/btn_view_7"
+        android:text="냥콤보 / (구)"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:text="스페셜 스테이지"
+        android:id="@+id/btn_view_8"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:text="오토토 개발대"
+        android:id="@+id/btn_view_9"
+        android:layout_weight="1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30dp"
+        android:text="동영상 공략법"
+        android:id="@+id/btn_view_10"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</TableLayout>
+
+
+
